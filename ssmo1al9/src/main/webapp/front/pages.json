@@ -1,0 +1,294 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯详情"
+		}
+	}
+			,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/kemuerxuexi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/kemuerxuexi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/kemuerxuexi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/kemuleixing/list",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/kemuleixing/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/kemuleixing/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/kemusanxuexi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/kemusanxuexi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/kemusanxuexi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	}
+													,{
+		"path": "pages/storeup/list",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/storeup/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/messages/list",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/messages/liuyan",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/discusskemuerxuexi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discusskemuerxuexi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discusskemuerxuexi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	}
+				,{
+		"path": "pages/discusskemusanxuexi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discusskemusanxuexi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	},{
+		"path": "pages/discusskemusanxuexi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white"
+		}
+	}
+					, {
+		"path": "pages/exampaperlist/list",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "试卷列表"
+		}
+	}, {
+		"path": "pages/exampaperlist/exam",
+		"style": {
+			"navigationStyle": "custom"
+		}
+	}, {
+		"path": "pages/examrecord/list",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "考试记录"
+		}
+	}, {
+		"path": "pages/examrecord/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "考试记录"
+		}
+	}, {
+		"path": "pages/examfailrecord/list",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "错题本"
+		}
+	}
+		, {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#434343",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "驾校管理系统小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#FFFFFF",
+		"borderStyle": "black",
+		"backgroundColor": "#434343",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+												,{
+				"pagePath": "pages/kemuerxuexi/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "科目二学习"
+			}
+												,{
+				"pagePath": "pages/kemusanxuexi/list",
+				"iconPath": "/static/tabs/icon2.png",
+				"selectedIconPath": "/static/tabs/icon2_act.png",
+				"text": "科目三学习"
+			}
+						
+						
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
